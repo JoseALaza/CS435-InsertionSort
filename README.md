@@ -1,2 +1,2 @@
 # CS435-InsertionSort
-Insertion sort algorithm 
+This is a simple programming assignment to implement insertion sort algorithm and to observe its worst-case, best-case, and average-case performance.  The performance measurement is in terms of the numberof key-comparisons, rather than the actual running time.Implement insertion-sort algorithm without use of recursion.  (A recursive implementation of insertion sortfor large sizenmay cause run-time stack overflow.)
